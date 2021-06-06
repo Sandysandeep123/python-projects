@@ -10,8 +10,8 @@ sys.setrecursionlimit(10000)
 searching_times = {
     'linear search': {
         'adding': {
-            'asc order': float,
-            'randomly': float
+            'asc order': 0.0,
+            'randomly': 0.0
         },
         'searching': {
             'asc order': 0.0,
