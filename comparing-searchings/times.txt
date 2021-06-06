@@ -1,0 +1,17 @@
+				in ascending order				randomly ordered
+linear search:
+				adding 0.000000000000000000		adding 0.002989053726196289		
+				searching 0.000000000000000		searching 0.000000000000000		
+
+binary search:
+				adding 0.000000000000000000		adding 0.002989053726196289		
+				searching 0.000000000000000		searching None		
+
+bst search:
+				adding 0.713112354278564453		adding 0.010011672973632812		
+				searching 0.000995397567749		searching 0.000000000000000		
+
+avl tree search:
+				adding 0.030918121337890625		adding 0.033893108367919922		
+				searching 0.000000000000000		searching 0.000000000000000		
+
